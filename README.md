@@ -39,7 +39,7 @@ Discuss what you need to develop this project. This includes background informat
 
 [//]: # (Replace with your collaborators)
 
-[Elan Reizas](https://github.com/ElanReizas) • [Kyle Dragon Lee](https://github.com/leekd99) • [Yasseen Rouni](https://github.com/YasseenR) • [Joe Gwynn](https://github.com/Jgwynn20)
+[Elan Reizas](https://github.com/ElanReizas) • [Kyle Dragon Lee](https://github.com/leekd99) • [Yasseen Rouni](https://github.com/YasseenR) • [Joe Gwynn](https://github.com/Jgwynn20) • [Rayhona Nasimova](https://github.com/nassimovars)
 
 
 </div>
